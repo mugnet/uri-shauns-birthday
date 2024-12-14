@@ -78,7 +78,7 @@
                                         "
                                     />
                                     <img
-                                        src="https://laravel.com/assets/img/welcome/docs-dark.svg"
+                                        src="{{ aset('images/shaun-1st') }}"
                                         alt="Laravel documentation screenshot"
                                         class="hidden aspect-video h-full w-full flex-1 rounded-[10px] object-top object-cover drop-shadow-[0px_4px_34px_rgba(0,0,0,0.25)] dark:block"
                                     />
@@ -94,7 +94,7 @@
                                         </div>
 
                                         <div class="pt-3 sm:pt-5 lg:pt-0">
-                                            <h2 class="text-xl font-semibold text-black dark:text-white">Documentation</h2>
+                                            <h2 class="text-xl font-semibold text-black dark:text-white">Thank you!</h2>
 
                                             <p class="mt-4 text-sm/relaxed">
                                                 Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
